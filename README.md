@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mentory Frontend Demo
 
-## Getting Started
+Welcome to the frontend demo of Mentory, created as part of Buildspace's Night and Weekends Season 5.
 
-First, run the development server:
+## About Mentory
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Mentory is an innovative online mentoring platform designed to connect mentors with mentees across various fields and industries. Our platform aims to facilitate meaningful mentorship relationships that empower mentees to grow personally and professionally.
+
+## Table of Contents
+
+- [About Mentory](#about-mentory)
+- [How to Run](#how-to-run)
+- [Important Note](#important-note)
+- [Additional Information](#additional-information)
+- [Credits](#credits)
+- [Contact](#contact)
+
+## How to Run
+
+To run this frontend demo locally, follow these steps:
+1- Clone the repository:
+
+```
+git clone https://github.com/les-ikhwans/mentory-ui.git
+cd mentory-ui
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2- Install dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3- Start the development server:
 
-## Learn More
+```
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+4- Open your browser:
+Visit http://localhost:3000 to view the demo.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Important Note
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This is a Frontend Demo: Please note that this demo represents only the frontend part of the Mentory platform. Certain features may not be fully functional or integrated. If you encounter any issues or have feedback, we'd love to hear from you! Feel free to reach out to us via email or in our socials .
 
-## Deploy on Vercel
+## Additional Information
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Technologies Used: Next.js, React, Tailwind CSS
+- Feedback and Contributions: We welcome your feedback and contributions to enhance this demo. Fork the repository and submit a pull request with your improvements.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Credits
+
+We would like to extend our heartfelt thanks to our incredible team members for their hard work and dedication in making this project possible:
+
+- Kadiri Mehdi
+- Fahim Mariam
+- Saadi Loubna
+
+Additionally, we would like to acknowledge the following resources and tools that were instrumental in the development of this project:
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+Thank you to the Buildspace community for their support and guidance throughout Buildspace's Night and Weekends Season 5.
+
+## Contact
+
+For questions, issues, or feedback, please contact us at :
+
+- Kadiri : mehkadiri@gmail.com
+- Saadi : loubnasaadi88@gmail.com
+- Fahim : mariam.fahim2003@gmail.com
