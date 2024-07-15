@@ -1,0 +1,20 @@
+[
+  {
+    "email": "user1@mentory.com",
+    "password": "mentory123",
+    "username": "User 1",
+    "photo": "https://robohash.org/1"
+  },
+  {
+    "email": "user2@mentory.com",
+    "password": "mentory123",
+    "username": "User 2",
+    "photo": "https://robohash.org/2"
+  },
+  {
+    "email": "user3@mentory.com",
+    "password": "mentory123",
+    "username": "User 3",
+    "photo": "https://robohash.org/3"
+  }
+]
