@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  basePath: "/mentory", // Replace with your GitHub repository name
-  assetPrefix: "/mentory/", // Replace with your GitHub repository name
-};
+const nextConfig = {};
 
 export default nextConfig;
