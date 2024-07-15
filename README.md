@@ -10,14 +10,24 @@ Mentory is an innovative online mentoring platform designed to connect mentors w
 
 - [About Mentory](#about-mentory)
 - [How to Run](#how-to-run)
+- [Prerequisites](#prerequisites)
 - [Important Note](#important-note)
 - [Additional Information](#additional-information)
 - [Credits](#credits)
 - [Contact](#contact)
 
+## Prerequisites
+
+Ensure you have the following installed:
+- A terminal application
+- [Git](https://git-scm.com/downloads)
+- [Node.js](https://nodejs.org/) (which includes npm)
+- [Next.js](https://nextjs.org/docs/getting-started) (You can install it globally using `npm install -g next`)
+
 ## How to Run
 
-To run this frontend demo locally, follow these steps:
+To run this frontend demo locally, follow these steps in your terminal:
+
 1- Clone the repository:
 
 ```
@@ -71,4 +81,4 @@ For questions, issues, or feedback, please contact us at :
 
 - Kadiri : mehkadiri@gmail.com
 - Saadi : loubnasaadi88@gmail.com
-- Fahim : mariam.fahim2003@gmail.com
+- Fahim : mariam.fahim.2003@gmail.com
