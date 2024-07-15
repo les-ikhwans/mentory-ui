@@ -1,20 +1,23 @@
 [
   {
-    "email": "user1@mentory.com",
-    "password": "mentory123",
+    "_id": "1",
     "username": "User 1",
-    "photo": "https://robohash.org/1"
+    "email": "user1@mentory.com",
+    "photo": "https://robohash.org/1",
+    "password": "mentory123"
   },
   {
-    "email": "user2@mentory.com",
-    "password": "mentory123",
+    "_id": "2",
     "username": "User 2",
-    "photo": "https://robohash.org/2"
+    "email": "user2@mentory.com",
+    "photo": "https://robohash.org/2",
+    "password": "mentory123"
   },
   {
-    "email": "user3@mentory.com",
-    "password": "mentory123",
+    "_id": "3",
     "username": "User 3",
-    "photo": "https://robohash.org/3"
+    "email": "user3@mentory.com",
+    "photo": "https://robohash.org/3",
+    "password": "mentory123"
   }
 ]
